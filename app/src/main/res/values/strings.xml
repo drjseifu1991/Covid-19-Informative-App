@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">ኮቪድ 19</string>
+    <string name="introduction">ኮሮና ምንድን ነው?</string>
+    <string name="symptoms_tv">ምልክቶች ምንድን ናቸው?</string>
+    <string name="prevention_tv">የመከላከያ ዘዴዎች</string>
+    <string name="transmission_tv">የመተላለፍያ መንገዶች</string>
+    <string name="virusnews">አዲስ ነገር</string>
+    <string name="question">ጥያቄ</string>
+    <string name="howtousemask">የጭምብል አጠቃቀም</string>
+    <string name="howtowashhand">የእጅ አስተጣጠብ</string>
+    <string name="covidpatient">በበሽታዉ ለተያዙት ምክር</string>
+    <string name="symptomTitle">የኮሮና ቫይረስ ምልክቶች</string>
+    <string name="preventionTitle">የኮሮና ቫይረስ መከላከያዎች</string>
+    <string name="patientTitle">በኮሮና ቫይረስ ለተያዙት ሰዎች ምክር</string>
+
+    <!-- Preference Titles -->
+    <string name="messages_header">Messages</string>
+    <string name="sync_header">Sync</string>
+
+    <!-- Messages Preferences -->
+    <string name="signature_title">Your signature</string>
+    <string name="reply_title">Default reply action</string>
+
+    <!-- Sync Preferences -->
+    <string name="sync_title">Sync email periodically</string>
+    <string name="attachment_title">Download incoming attachments</string>
+    <string name="attachment_summary_on">Automatically download attachments for incoming emails
+    </string>
+    <string name="attachment_summary_off">Only download attachments when manually requested</string>
+    <string name="exit_alert_title">ስለ እኛ</string>
+    <string name="exit_message">አበልጻጊዉ፦ Ethioptech Apps\n\tethioptech21@gmail.com\n\t\tBahir dar\n\t\t\tV-1.0</string>
+    <string name="newsTitle">ስለ ኮሮና ቫይረስ አዲስ ነገር</string>
+</resources>

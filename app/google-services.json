@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "551896441746",
+    "firebase_url": "https://coronadb-28c8d.firebaseio.com",
+    "project_id": "coronadb-28c8d",
+    "storage_bucket": "coronadb-28c8d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:551896441746:android:29d1886878fc166987174b",
+        "android_client_info": {
+          "package_name": "com.ethioptech.covid19"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "551896441746-qdkvt5idj5l0ps4g4ei4gemh0qrekh95.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.ethioptech.covid19",
+            "certificate_hash": "432c3eaa564e9c3e2709634359e6d27321a4ffc5"
+          }
+        },
+        {
+          "client_id": "551896441746-2sh2v0vmq38ahl5hd9eecu4fnar49v1a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyANrKFFd0JDKNvGCAz6oK7CqIFyIl9xpMA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "551896441746-2sh2v0vmq38ahl5hd9eecu4fnar49v1a.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
